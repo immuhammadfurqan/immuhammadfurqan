@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Furqan Ahmad
+### Hi there! 👋 I'm Muhammad Furqan
 
 🚀 **AI Engineer | Cloud NLP Enthusiast | Kaggle Notebook Master**  
 🌍 Passionate about **Deep Learning, NLP, and Cloud AI Solutions**  
