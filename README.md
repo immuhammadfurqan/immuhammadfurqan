@@ -1,53 +1,74 @@
-### Hi there! 👋 I'm Muhammad Furqan
+<!-- GitHub Profile README for Muhammad Furqan -->
 
-🚀 **AI Engineer | Cloud NLP Enthusiast | Kaggle Notebook Master**  
-🌍 Passionate about **Deep Learning, NLP, and Cloud AI Solutions**  
-⚡ Exploring **AWS IoT & Generative AI**
+<img src="https://i.imgur.com/JHrrEie.png" alt="GitHub Banner" width="100%" /> <!-- Replace with your custom banner -->
 
----
+# 👋 Hey there! I'm Muhammad Furqan — AI Engineer & ML Developer from Pakistan 🇵🇰
 
-### 👨‍💻 My 3D Avatar
-<p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="300">
-</p>
-
----
-
-### 🚀 About Me
-- 🎯 **Currently Learning:** AWS IoT & Advanced Cloud NLP
-- 🔭 **Working on:** **AI-Powered Document Translation** 📄🌍
-- 📜 **Certifications:** AWS Cloud Practitioner | AWS ML Associate | IBM Data Science Professional
-- 🏆 **Kaggle Notebook Master** | **AI Content Writer**
-- 🎨 **Love Creating AI-Focused Content & Open-Source Contributions**
+🚀 Building scalable AI platforms, from **document chatbots** to **voice-powered APIs**  
+📚 Currently developing **Akademus AI** – an AI-native learning platform  
+🎓 AWS Certified Cloud Practitioner | Future ML Specialist  
+✍️ I simplify AI in my writing – follow along for insights, projects & tutorials  
+🌐 [Portfolio](https://iammuhammadfurqan.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/immuhammadfurqan/) | [GitHub](https://github.com/iammuhammadfurqan/)
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+## 💻 Tech Stack I Work With
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**AI/ML Tools**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Frontend**  
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqan899&show_icons=true&theme=radical)
+## 🔧 Projects
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=furqan899&theme=dark)
+🧠 [Akademus AI](https://github.com/iammuhammadfurqan/akademus)  
+**RAG-based learning assistant** that summarizes, quizzes, and chats with educational documents.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan899&layout=compact&theme=dark)
+🕋 [Salah GPT](https://github.com/iammuhammadfurqan/salah-gpt)  
+**Islamic AI assistant** built using OpenAI, FastAPI, and Next.js for daily spiritual queries.
 
----
-
-### 🎯 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immuhammadfurqan/) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) 
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadfurqan0)
+📞 [Voice AI Platform](https://github.com/iammuhammadfurqan/voice-ai-platform) *(Private)*  
+**Scalable Voice API system** for automated telephony, AI assistants & omnichannel voicebots.
 
 ---
 
-### 🌟 Fun Fact
-💡 *"AI is the future, and I am building it!"* 😃
+## 📊 GitHub Stats
+
+![Furqan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammuhammadfurqan&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iammuhammadfurqan&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammuhammadfurqan/iammuhammadfurqan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iammuhammadfurqan/iammuhammadfurqan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iammuhammadfurqan/iammuhammadfurqan/output/github-snake.svg" />
+</picture>
+
+---
+
+⭐️ From [Muhammad Furqan](https://github.com/iammuhammadfurqan)  
+🧠 AI for Good | Learning Out Loud
