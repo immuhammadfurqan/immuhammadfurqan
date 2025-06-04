@@ -97,6 +97,11 @@ I've built multiple AI-powered education tools while balancing full-time work an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=furqan899&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=furqan899&icon=0&color=0)](https://visitcount.itsvg.in)
 
