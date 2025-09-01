@@ -16,45 +16,35 @@
 
 ---
 
-# 💫 About Me:
+# 💫 About Me  
 
-🛠 **Currently working on:**  
-- **Akademus AI** – an AI-powered educational SaaS platform with PDF-based chat, RAG system, quizzes, flashcards, and document sharing  
-- **SaaS AI Interview Taker** – structured mock interview system with user registration, question-answer sessions, and analytics  
-- **MathWiz** – a grade-based math learning platform with smart badge system and AI-generated questions  
-- **AI-Powered Document Translation** 📄🌍
+I am Muhammad Furqan, an **AI/ML Engineer** passionate about building intelligent systems that combine **Generative AI, NLP, RAG pipelines, and backend engineering**. My expertise lies in designing scalable AI-driven platforms that solve real-world problems in **education, automation, and intelligent assistance**.  
 
-👯 **Looking to collaborate on:**  
-- AI/ML SaaS products  
-- Educational platforms with Generative AI  
-- Open-source projects involving FastAPI, Django, or RAG systems
+With hands-on experience in **FastAPI, Django REST Framework, LangChain, Pinecone, AWS (S3, EC2, Lambda, Bedrock)** and **LLM fine-tuning**, I specialize in bridging **AI research with production-ready backend systems**.  
 
-🤝 **Looking for help with:**  
-- Scaling RAG pipelines  
-- Improving AI question generation for K-12 math content  
-- Advanced document QA optimization using Pinecone and OpenAI APIs
+## 🚀 Highlight Projects  
+- 🎙 **ParadeDeck AI** – AI-powered podcast discovery & content generation platform with RAG-based chat, flashcards, summaries, and ElevenLabs audio integration.  
+- 📘 **MathWiz** – Grade-wise AI learning platform with intelligent question generation, topic mastery tracking, and a dynamic badge system.  
+- 🎓 **Akademus AI** – Education-first GenAI platform (similar to YouLearn) with PDF ingestion, semantic search, flashcards, and quizzes powered by RAG + Pinecone.  
+- 🛠 **Aurelia** – Technical assistant for crane & remote control diagnostics using manuals and error codes, providing quick troubleshooting in 300–500 chars.  
+- 🙏 **Salah GPT** – AI-powered Islamic Q&A and guidance system with contextual Quran & Hadith grounding.  
+- 📑 **Requirement GPT** – LLM-powered assistant for structured requirement gathering and document generation.  
 
-🌱 **Currently learning:**  
-- Django REST Framework (DRF)  
-- Advanced RAG architectures  
-- SaaS development best practices and cloud deployment (especially AWS)  
-- AWS IoT & Advanced Cloud NLP
+## 🏆 Achievements  
+- 🏅 **Kaggle Notebook Master** – 1× Gold, 5× Silver, 15× Bronze medals.  
+- 💻 **Solved 250+ LeetCode Problems** (Data Structures & Algorithms).  
+- 📜 **IBM Data Science Professional Certificate**.  
+- 🌍 **LinkedIn Top Voice in AI** – recognized for simplifying AI for a broader audience.  
+- 💼 Internship experience:  
+  - **GenAI Intern @ Skilled Score** – worked on fine-tuning LLMs & building GenAI solutions.  
+  - **AI Intern @ Sparkix Technologies** & **Knowledge Streams** – focused on AI product development.  
 
-💬 **Ask me about:**  
-- AI Engineering with FastAPI  
-- RAG systems and vector databases  
-- Building MVPs for AI startups  
-- Structuring educational AI platforms
+## 🎯 Currently Exploring  
+- Expanding expertise in **GenAI (LLM apps, RAG, fine-tuning, multi-agent systems)**.  
+- Building scalable **AI backends** on **AWS** with seamless API integrations.  
+- Exploring **voice and multimodal AI systems** using ElevenLabs and related tools.  
 
-📜 **Certifications:**  
-- AWS Cloud Practitioner | AWS ML Associate | IBM Data Science Professional
-
-🏆 **Achievements:**  
-- **Kaggle Notebook Master** | **AI Content Writer**
-
-⚡ **Fun fact:**  
-I've built multiple AI-powered education tools while balancing full-time work and learning – and I love turning complex AI systems into practical, user-friendly tools! 🚀  
-💡 *"AI is the future, and I am building it!"* 😃
+💡 My vision is to become a **Cloud NLP Engineer** who builds impactful, production-ready AI systems that empower people and businesses.  
 
 ---
 
