@@ -90,12 +90,12 @@ AI learning platform that generates **grade-wise math questions**, provides **ad
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan899&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan899&theme=graywhite&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furqan899&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=furqan899&theme=default&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan899&theme=graywhite&hide_border=true&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan899&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
