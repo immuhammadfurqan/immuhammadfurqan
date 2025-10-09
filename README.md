@@ -1,103 +1,140 @@
-# Hi there! 👋 I'm Muhammad Furqan
+# 👋 Hi there! I'm Muhammad Furqan  
 
 🚀 **AI Engineer | Cloud NLP Enthusiast | Kaggle Notebook Master**  
-🌍 Passionate about **Deep Learning, NLP, and Cloud AI Solutions**  
-⚡ Exploring **AWS IoT & Generative AI**
+🌍 Passionate about **LLMs, RAG Systems, and Scalable AI Solutions**  
+☁️ Exploring **Cloud AI, Generative Agents, and Voice-based Systems**
 
 ---
 
-### 👨‍💻 Coding in Action
+### 👨‍💻 Coding in Action  
 <p align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400">
 </p>
 
-<!-- Alternative GIF option: -->
-<!-- <img align="right" alt="Coding GIF" height="300" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
+---
+
+## 💫 About Me  
+
+I’m Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
+My work combines **NLP, RAG pipelines, FastAPI, LangChain, Pinecone**, and **AWS** to create intelligent systems for **education, automation, and technical diagnostics**.  
+
+Currently working on:  
+- 🤖 **AI Voice APIs** & **Multi-agent Architectures**  
+- 📚 **Educational AI** with personalized learning paths  
+- ⚙️ **Cloud-native AI solutions** deployed on AWS  
 
 ---
 
-# 💫 About Me  
+## 🚀 Featured Projects  
 
-I am Muhammad Furqan, an **AI/ML Engineer** passionate about building intelligent systems that combine **Generative AI, NLP, RAG pipelines, and backend engineering**. My expertise lies in designing scalable AI-driven platforms that solve real-world problems in **education, automation, and intelligent assistance**.  
+### 🎙 [ParadeDeck AI](https://www.podlogix.co/UserLogin)  
+Podcast-native AI platform that **transcribes, embeds, and semantically searches** military podcasts.  
+Built using **Deepgram, Pinecone, and LLMs** for content discovery and semantic chat.  
 
-With hands-on experience in **FastAPI, Django REST Framework, LangChain, Pinecone, AWS (S3, EC2, Lambda, Bedrock)** and **LLM fine-tuning**, I specialize in bridging **AI research with production-ready backend systems**.  
+### 🛠 [Aurelia](https://aurelia.soltec.org/)  
+AI-powered **technical assistant for crane diagnostics**, supporting multiple brands (EFFER, PM, HIAB, etc.).  
+Handles **error codes, manuals, and troubleshooting** in under 500 characters.  
 
-## 🚀 Highlight Projects  
-- 🎙 **ParadeDeck AI** – AI-powered podcast discovery & content generation platform with RAG-based chat, flashcards, summaries, and ElevenLabs audio integration.  
-- 📘 **MathWiz** – Grade-wise AI learning platform with intelligent question generation, topic mastery tracking, and a dynamic badge system.  
-- 🎓 **Akademus AI** – Education-first GenAI platform (similar to YouLearn) with PDF ingestion, semantic search, flashcards, and quizzes powered by RAG + Pinecone.  
-- 🛠 **Aurelia** – Technical assistant for crane & remote control diagnostics using manuals and error codes, providing quick troubleshooting in 300–500 chars.  
-- 🙏 **Salah GPT** – AI-powered Islamic Q&A and guidance system with contextual Quran & Hadith grounding.  
-- 📑 **Requirement GPT** – LLM-powered assistant for structured requirement gathering and document generation.  
-
-## 🏆 Achievements  
-- 🏅 **Kaggle Notebook Master** – 1× Gold, 5× Silver, 15× Bronze medals.  
-- 💻 **Solved 250+ LeetCode Problems** (Data Structures & Algorithms).  
-- 📜 **IBM Data Science Professional Certificate**.  
-- 🌍 **LinkedIn Top Voice in AI** – recognized for simplifying AI for a broader audience.  
-- 💼 Internship experience:  
-  - **GenAI Intern @ Skilled Score** – worked on fine-tuning LLMs & building GenAI solutions.  
-  - **AI Intern @ Sparkix Technologies** & **Knowledge Streams** – focused on AI product development.  
-
-## 🎯 Currently Exploring  
-- Expanding expertise in **GenAI (LLM apps, RAG, fine-tuning, multi-agent systems)**.  
-- Building scalable **AI backends** on **AWS** with seamless API integrations.  
-- Exploring **voice and multimodal AI systems** using ElevenLabs and related tools.  
-
-💡 My vision is to become a **Cloud NLP Engineer** who builds impactful, production-ready AI systems that empower people and businesses.  
+### 📘 [MathWiz](https://math-gen-fe.vercel.app/)  
+AI learning platform that generates **grade-wise math questions**, provides **adaptive quizzes**, and features **badge-based gamification** using **LLMs + AWS + FastAPI**.  
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immuhammadfurqan/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadfurqan0100@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) 
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadfurqan0)
+## 🧠 Other Notable Projects  
+
+- 🙏 **Salah GPT** – Islamic AI assistant grounded in Quran & Hadith for contextual Q&A.  
+- 🎓 **Akademus AI** – Document-based educational RAG platform with flashcards & quizzes.  
+- 🧾 **Requirement GPT** – Structured document generator powered by LLMs for requirement analysis.  
+- 🔊 **AI Voice API Platform** – Omnichannel conversational AI system with automated telephony.  
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+## 🧩 Tech Stack  
 
-**Cloud & Deployment:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+**Programming:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Frameworks & APIs:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+**AI & ML:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-%236B5B95.svg?style=for-the-badge&logo=graphql&logoColor=white)  
+
+**LLMs & Tools:**  
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-%23FFD700.svg?style=for-the-badge&logo=anthropic&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini-%230096FF.svg?style=for-the-badge&logo=google&logoColor=white)
+
+**Backend & APIs:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Databases:**  
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%2300B8D9.svg?style=for-the-badge&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23111111.svg?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF5722.svg?style=for-the-badge&logo=vectorworks&logoColor=white)
 
-**AI/ML & Data Science:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+**Audio & Speech:**  
+![Deepgram](https://img.shields.io/badge/Deepgram-%23111111.svg?style=for-the-badge&logo=deezer&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-%23A3A3A3.svg?style=for-the-badge) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23FF7F00.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)
 
-**Other Tools:**  
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+**Dev Tools:**  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%23222222.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=furqan899&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furqan899&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 Achievements  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=furqan899&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🥇 **Kaggle Notebook Master** — Top 150 out of 60,000+ users  
+- 🎖 **Top Performer @ Knowledge Streams** — 94% evaluation score  
+- 💻 **200+ LeetCode Problems Solved** — Top 10% globally  
+- 🧩 **5★ Python Developer** on HackerRank  
+- 🎓 **IBM Data Science Professional Certified**  
 
-### 🐍 Contribution Snake
+---
+
+## 📊 GitHub Insights  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furqan899&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan899&theme=graywhite&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan899&theme=graywhite&hide_border=true&layout=compact" height="160" />
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=furqan899&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imuhammadfurqan) 
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=furqan899&theme=flat&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furqan899&theme=github-light" />
+</p>
+
+---
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immuhammadfurqan/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadfurqan0100@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadfurqan0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://iammuhammadfurqan.github.io/portfolio/)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=furqan899&icon=2&color=6)](https://visitcount.itsvg.in)
+
+## ☕ Support My Work  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imuhammadfurqan)
+
+---
+
+<!-- Proudly created with ❤️ by Muhammad Furqan -->
