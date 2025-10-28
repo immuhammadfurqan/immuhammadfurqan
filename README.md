@@ -17,7 +17,7 @@
 
 ## 💫 About Me  
 
-I’m Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
+I'm Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
 My work combines **NLP, RAG pipelines, FastAPI, LangChain, Pinecone**, and **AWS** to create intelligent systems for **education, automation, and technical diagnostics**.  
 
 Currently working on:  
@@ -126,16 +126,16 @@ Currently working on:
 
 ---
 
-### 🏆 GitHub Trophies  
+### 📈 Contribution Activity  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=immuhammadfurqan&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadfurqan&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph  
+### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadfurqan&theme=github-light" />
+  <img src="https://github-profile-trophy.vercel.app/?username=immuhammadfurqan&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
