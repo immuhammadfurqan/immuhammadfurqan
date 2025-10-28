@@ -17,7 +17,7 @@
 
 ## 💫 About Me  
 
-I'm Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
+I’m Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
 My work combines **NLP, RAG pipelines, FastAPI, LangChain, Pinecone**, and **AWS** to create intelligent systems for **education, automation, and technical diagnostics**.  
 
 Currently working on:  
@@ -115,27 +115,13 @@ Currently working on:
 
 ## 📊 GitHub Insights  
 
-### 📈 Complete Contribution Overview
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=immuhammadfurqan&theme=default" width="100%" />
-</p>
-
-### 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=immuhammadfurqan&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
   <img src="https://streak-stats.demolab.com?user=immuhammadfurqan&theme=default&hide_border=true" height="160" />
 </p>
 
-### 💻 Most Used Languages & Contribution Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immuhammadfurqan&layout=compact&theme=default&hide_border=true" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=immuhammadfurqan&theme=default" height="160" />
-</p>
-
-### ⏰ Coding Activity Breakdown
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=immuhammadfurqan&theme=default&utcOffset=5" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=immuhammadfurqan&limit=5&theme=flat&combine_all_yearly_contributions=true" width="48%" />
 </p>
 
 ---
@@ -143,6 +129,13 @@ Currently working on:
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=immuhammadfurqan&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadfurqan&theme=github-light" />
 </p>
 
 ---
