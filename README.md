@@ -4,7 +4,7 @@
 🌍 Passionate about **LLMs, RAG Systems, and Scalable AI Solutions**  
 ☁️ Exploring **Cloud AI, Generative Agents, and Voice-based Systems**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furqan899&label=Profile%20Views&color=blueviolet&style=flat" alt="furqan899" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=immuhammadfurqan&label=Profile%20Views&color=blueviolet&style=flat" alt="immuhammadfurqan" /> </p>
 
 ---
 
@@ -55,9 +55,9 @@ Currently working on:
       </a>
     </td>
     <td width="50%">
-      <h3>🙏 <a href="https://github.com/furqan899/Salah-GPT">Salah GPT</a></h3>
+      <h3>🙏 <a href="https://github.com/immuhammadfurqan/Salah-GPT">Salah GPT</a></h3>
       <p>Islamic AI assistant grounded in Quran & Hadith for contextual Q&A. A RAG-based system for accurate and context-aware religious guidance.</p>
-      <a href="https://github.com/furqan899/Salah-GPT" target="_blank">
+      <a href="https://github.com/immuhammadfurqan/Salah-GPT" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -116,26 +116,26 @@ Currently working on:
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan899&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=furqan899&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=immuhammadfurqan&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=immuhammadfurqan&theme=default&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan899&layout=compact&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immuhammadfurqan&layout=compact&theme=default&hide_border=true" height="160" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furqan899&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=immuhammadfurqan&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ### 📈 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=furqan899&theme=github-light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=immuhammadfurqan&theme=github-light" />
 </p>
 
 ---
@@ -156,7 +156,7 @@ Currently working on:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=furqan899&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=immuhammadfurqan&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ## ☕ Support My Work  
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imuhammadfurqan)
