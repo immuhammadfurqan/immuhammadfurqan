@@ -17,7 +17,7 @@
 
 ## 💫 About Me  
 
-I’m Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
+I'm Muhammad Furqan — an **AI Engineer** focused on building **LLM-based, scalable applications** that connect research to real-world deployment.  
 My work combines **NLP, RAG pipelines, FastAPI, LangChain, Pinecone**, and **AWS** to create intelligent systems for **education, automation, and technical diagnostics**.  
 
 Currently working on:  
@@ -55,6 +55,22 @@ Currently working on:
       </a>
     </td>
     <td width="50%">
+      <h3>🧠 <a href="https://github.com/immuhammadfurqan/brain-ai-assistant">Ekko AI - Brain Assistance</a></h3>
+      <p>Enterprise multi-tenant SaaS platform with AI-powered prompt templates, subscription management, analytics dashboard, and Firebase push notifications using Django REST + LangChain.</p>
+      <a href="https://github.com/immuhammadfurqan/brain-ai-assistant" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🃏 <a href="https://github.com/immuhammadfurqan/Card-Detection-API">YOLO Card Detection API</a></h3>
+      <p>Production-ready FastAPI wrapper for robust playing card detection using YOLOv8 with multi-scale detection, image preprocessing, and batch processing capabilities.</p>
+      <a href="https://github.com/immuhammadfurqan/Card-Detection-API" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
       <h3>🙏 <a href="https://github.com/immuhammadfurqan/Salah-GPT">Salah GPT</a></h3>
       <p>Islamic AI assistant grounded in Quran & Hadith for contextual Q&A. A RAG-based system for accurate and context-aware religious guidance.</p>
       <a href="https://github.com/immuhammadfurqan/Salah-GPT" target="_blank">
@@ -68,7 +84,6 @@ Currently working on:
 
 ## 🧠 Other Notable Projects  
 
-- 🙏 **Salah GPT** – Islamic AI assistant grounded in Quran & Hadith for contextual Q&A.  
 - 🎓 **Akademus AI** – Document-based educational RAG platform with flashcards & quizzes.  
 - 🧾 **Requirement GPT** – Structured document generator powered by LLMs for requirement analysis.  
 - 🔊 **AI Voice API Platform** – Omnichannel conversational AI system with automated telephony.  
@@ -81,13 +96,13 @@ Currently working on:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **AI & ML:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-%236B5B95.svg?style=for-the-badge&logo=graphql&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFCA28.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![LangGraph](https://img.shields.io/badge/LangGraph-%236B5B95.svg?style=for-the-badge&logo=graphql&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
 
 **LLMs & Tools:**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-%23FFD700.svg?style=for-the-badge&logo=anthropic&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini-%230096FF.svg?style=for-the-badge&logo=google&logoColor=white)
 
 **Backend & APIs:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-%2300B8D9.svg?style=for-the-badge&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-%23111111.svg?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-%23FF5722.svg?style=for-the-badge&logo=vectorworks&logoColor=white)
