@@ -60,17 +60,14 @@ Currently working on:
       <a href="https://brain-assistance-fe.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
-      <a href="https://github.com/immuhammadfurqan/brain-ai-assistant" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🃏 <a href="https://github.com/immuhammadfurqan/Card-Detection-API">YOLO Card Detection API</a></h3>
       <p>Production-ready FastAPI wrapper for robust playing card detection using YOLOv8 with multi-scale detection, image preprocessing, and batch processing capabilities.</p>
-      <a href="https://github.com/immuhammadfurqan/Card-Detection-API" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="http://34.162.87.238:8501/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
       </a>
     </td>
     <td width="50%">
