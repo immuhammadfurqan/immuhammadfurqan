@@ -55,8 +55,11 @@ Currently working on:
       </a>
     </td>
     <td width="50%">
-      <h3>🧠 <a href="https://github.com/immuhammadfurqan/brain-ai-assistant">Ekko AI - Brain Assistance</a></h3>
+      <h3>🧠 <a href="https://brain-assistance-fe.vercel.app/">Ekko AI - Brain Assistance</a></h3>
       <p>Enterprise multi-tenant SaaS platform with AI-powered prompt templates, subscription management, analytics dashboard, and Firebase push notifications using Django REST + LangChain.</p>
+      <a href="https://brain-assistance-fe.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-43B581?style=for-the-badge&logo=react&logoColor=white" />
+      </a>
       <a href="https://github.com/immuhammadfurqan/brain-ai-assistant" target="_blank">
         <img src="https://img.shields.io/badge/GitHub_Repo-333?style=for-the-badge&logo=github&logoColor=white" />
       </a>
